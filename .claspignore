@@ -1,0 +1,4 @@
+**/**
+!**/*.ts
+!appsscript.json
+node_modules/**
