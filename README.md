@@ -1,4 +1,4 @@
-# TweetSC
+# TotalingSCprice
 
 [![clasp](https://img.shields.io/badge/built%20with-clasp-4285f4.svg)](https://github.com/google/clasp)
 
@@ -14,19 +14,19 @@ Gmail 領収書からスーパーチャット投入額を集計し Spread Sheet 
 $ yarn
 ```
 
-2. GAS にログイン
+3. GAS にログイン
 
 ```bash
 $ clasp login
 ```
 
-3. GAS プロジェクトの作成
+4. GAS プロジェクトの作成
 
 ```bash
 $ clasp create --type standalone
 ```
 
-4. プッシュ
+5. プッシュ
 
 ```bash
 $ clasp push
